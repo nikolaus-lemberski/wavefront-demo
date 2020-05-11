@@ -16,4 +16,4 @@ You can call the endpoints (see DemoController.java) manually, or you can run a 
 ```
 npm install -g artillery
 artillery run loadtest.yml
-``
+```
