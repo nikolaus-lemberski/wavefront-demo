@@ -1,7 +1,3 @@
-# Artillery Load Test Configuration
-# npm install -g artillery
-# artillery run loadtest.yml
-
 config:
   target: 'http://localhost:8080'
   phases:
